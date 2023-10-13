@@ -1,6 +1,7 @@
 # POJ_User_Submissions
-codechefproblems.xlsx  --> Problems with highest tag and complexity level(modified score to level) in codechef
-DIFFICULTY_LEVEL.xlsx  --> contains a all problem with difficulty_score with assigned tag(highest tag) in codechef
-problemset.xlsx        --> contains 3518 problems in codechef
-submission73733        --> contains 197 users submissions data (problem , tag, complexity ,status)
-userproblems           --> each row contains username with all their accepted(solved) problems
+codechefproblems.xlsx  
+    3518 Problems with the highest level of tag and complexity level(modified score to level) in CodeChef
+DIFFICULTY_LEVEL.xlsx  
+    contains a all problems with difficulty_score with assigned tag(highest tag) in CodeChef
+submission73733       
+    contains 197 users' 73733 submissions data including user, problem, and verdict.
